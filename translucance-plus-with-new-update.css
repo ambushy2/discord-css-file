@@ -6,7 +6,7 @@
   --main-rgb: 0,0,0;
   --main-content-opacity: 0.2;
   --sidebar-opacity: 0.4;
-  --top-bar-opacity: 0.4
+  --top-bar-opacity: 0.4;
   --main-content-color: rgba(var(--main-rgb), var(--main-content-opacity));
   --sidebar-color: rgba(var(--main-rgb), var(--sidebar-opacity));
   --top-bar-color : rgba(var(--main-rgb), var(--sidebar-opacity));
